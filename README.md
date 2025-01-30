@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **OpenGL**
 
-- 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01f29afc1e58b12b22](https://www.upwork.com/freelancers/~01f29afc1e58b12b22)
+- 👨‍💻 All of my projects are available at [[https://www.upwork.com/freelancers/~01f29afc1e58b12b22](https://www.freelancer.com/u/MrYoussefSherif1?frm=MrYoussefSherif1&sb=t)]([https://www.upwork.com/freelancers/~01f29afc1e58b12b22](https://www.freelancer.com/u/MrYoussefSherif1?frm=MrYoussefSherif1&sb=t))
 
 - 📝 I regularly write articles on [X Mr_Joe707](X Mr_Joe707)
 
-- 💬 Ask me about **ML,AI, full stack app development**
+- 💬 Ask me about **ML,AI, full-stack app development**
 
 - 📫 How to reach me **mister.youssef.sherif@gmail.com**
 

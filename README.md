@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Sherif</h1>
 <h3 align="center">A Full Stack Mobile App Developer from Egypt</h3>
 
-- 🔭 I’m currently working on **A full stack education app**
+- 🔭 I’m currently working on **A full stack educational app**
 
 - 🌱 I’m currently learning **OpenGL**
 

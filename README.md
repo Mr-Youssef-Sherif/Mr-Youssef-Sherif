@@ -31,15 +31,6 @@ Cybersecurity • Applied ML • Privacy-focused Systems • Backend Engineering
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Youssef-Sherif&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Youssef-Sherif&theme=tokyonight" alt="streak" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 - 🧠 **[Tomouh App](#)** – Scalable learning platform (Flutter + Supabase + Neo4j)(private)
 - 🔒 **[Password Manager with 2FA](#)** – Encrypted storage with local + cloud auth

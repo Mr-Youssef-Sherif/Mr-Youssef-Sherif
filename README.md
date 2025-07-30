@@ -1,17 +1,55 @@
-<h1 align="center">Hi 👋, I'm Youssef Sherif</h1>
-<h3 align="center">A Full Stack Mobile App Developer from Egypt</h3>
+<h1 align="center">Hey 👋 I'm Youssef Sherif</h1>
+<h3 align="center">Full-Stack Mobile Developer • Backend Engineer • Cybersecurity Learner</h3>
 
-- 🔭 I’m currently working on **A full stack educational app**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mr-Youssef-Sherif&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
-- 🌱 I’m currently learning **OpenGL**
+---
 
-- 📝 I regularly write articles on [https://medium.com/@mister.youssef.sherif](https://medium.com/@mister.youssef.sherif)
+🔭 **Currently Building:**  
+- **[Tomouh](#)** — a full-stack educational & social platform built using Flutter, Supabase, Neo4j  
+- **NSFW Video Scanner API** — serverless video content analysis (Python, OpenCV, Modal)
 
-- 💬 Ask me about **Flutter, python, DSA**
+💻 **Tech Stack:**  
+`Flutter` • `Dart` • `Python` • `FastAPI` • `Supabase` • `Neo4j` • `CI/CD` • `Docker` • `PostgreSQL` • `Modal`
 
-- 📫 How to reach me **mister.youssef.sherif@gmail.com**
+🔐 **Interests:**  
+Cybersecurity • Applied ML • Privacy-focused Systems • Backend Engineering • Open Learning Tech
 
-- 📄 Know about my experiences [Still in progress](Still in progress)
+📚 **Currently Learning:**  
+`OpenGL` • `Advanced system design` • `Capture The Flag (CTF)` skills
+
+📝 **I write here:**  
+[Medium – @mister.youssef.sherif](https://medium.com/@mister.youssef.sherif)
+
+📫 **Reach me at:**  
+`mister.youssef.sherif@gmail.com`
+
+🌍 **From:** Giza, Egypt  
+🎓 **Graduation:** 2025 — American Diploma (CS/Math/Cybersecurity focus)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Youssef-Sherif&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Youssef-Sherif&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+- 🧠 **[Tomouh App](#)** – Scalable learning platform (Flutter + Supabase + Neo4j)(private)
+- 🔒 **[Password Manager with 2FA](#)** – Encrypted storage with local + cloud auth
+- 📊 **[Gold Price Scraper & Visualizer](#)** – Live market tracker with charts (Python + Pandas)
+- 🎥 **[NSFW Video Scanner API](#)** – Batch video content filter (Modal + OpenCV)(private)
+
+---
+
+💬 **Ask me about:**  
+Flutter • Python • Supabase • Neo4j • REST APIs • Auth Systems • Cybersecurity • Building MVPs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -27,7 +27,7 @@ Cybersecurity • Applied ML • Privacy-focused Systems • Backend Engineering
 `mister.youssef.sherif@gmail.com`
 
 🌍 **From:** Giza, Egypt  
-🎓 **Graduation:** 2025 — American Diploma (CS/Math/Cybersecurity focus)
+🎓 **Graduation:** 2029 — Computer Science (CS/Math/Cybersecurity focus)
 
 ---
 
